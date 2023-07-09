@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Streaming player App<br>👯 I’m looking to collaborate on Exciting Projects!<br>🤝 I’m looking for help with Innovative Integration<br>🌱 I’m currently learning Redux<br>💬 Ask me about React && MongoDB<br>⚡ Fun fact I m funny
+🔭 I’m currently working on a Streaming player App.<br>👯 I’m looking to collaborate on Exciting Projects!.<br>🤝 I’m looking for help with Innovative Integration.<br>🌱 I’m currently learning Redux.<br>💬 Ask me about React.<br>⚡ Fun fact I m funny.
 
 
 ## 🌐 Socials:
