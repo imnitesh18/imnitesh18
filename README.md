@@ -1,8 +1,8 @@
 ### 🙏 नमस्ते, I'm Nitesh Mali 👋
 
-<h3>A passionate Developer 🚀 & Programmer from India.</h3>
+<h3>A passionate Front-End Developer 🚀 & Programmer from India.</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-nitesh-mali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-mali/)](https://www.linkedin.com/in/nitesh-mali/)
+[![Linkedin Badge](https://img.shields.io/badge/-niteshmali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-mali/)](https://www.linkedin.com/in/nitesh-mali/)
 [![GitHub imnitesh18](https://img.shields.io/github/followers/imnitesh18?label=follow&style=social)](https://github.com/imnitesh18)
 
 ### About Me:
@@ -15,7 +15,6 @@
 
 
 ### Languages & Tools:
-a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
